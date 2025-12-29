@@ -22,7 +22,7 @@ body{
 .hero{
   min-height: 100vh;
   position: relative;
-  background: url("assets/bg.jpg") center/cover no-repeat fixed;
+  background: url("assets/bg.jpeg") center/cover no-repeat fixed;
   display: grid;
   grid-template-rows: auto 1fr;
 }
@@ -287,3 +287,4 @@ body{
   .nav{ display:none; }
   .brandLogo{ width: 48px; height: 48px; }
 }
+
